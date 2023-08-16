@@ -1,3 +1,12 @@
+dtk6declarative (6.0.0) unstable; urgency=medium
+
+  * feat: Adapt to qt6.4.2
+  * feat: Support install lib and plugins for qt6
+  * feat: Support install for example and template in qt6
+  * feat: Support dpkg-buildpackage for qt6
+
+ -- Deepin Packages Builder <packages@deepin.org>  Fri, 18 Aug 2023 14:45:36 +0800
+
 dtkdeclarative (5.6.17) unstable; urgency=medium
 
   * Release 5.6.17
